@@ -16,10 +16,7 @@
 
 ### Project Description
 
- ![Screenshot 2024-07-05 183549](https://github.com/AlaskaDav/alaskadavid/assets/155531290/40c70846-3111-4db4-9b57-35761c868ade)
-
  ![Screenshot 2024-07-05 183549](https://github.com/AlaskaDav/alaskadavid/assets/155531290/c8db70cf-7ec8-4847-a104-b53b13472b94)
-
 
 #### Data Source: Teron Corp Data (.csv file)
 
