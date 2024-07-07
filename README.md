@@ -16,7 +16,7 @@
 
 ### Project Description
 
- ![Screenshot 2024-07-05 183549](https://github.com/AlaskaDav/alaskadavid/assets/155531290/c8db70cf-7ec8-4847-a104-b53b13472b94)
+ ![Screenshot 2024-07-05 183549](https://github.com/AlaskaDav/Talent-Sourcing-Project/assets/155531290/f90810f1-19f8-4439-aa89-14cd7ef17e69)
 
 #### Data Source
 Teron Corp Data (.csv file)
