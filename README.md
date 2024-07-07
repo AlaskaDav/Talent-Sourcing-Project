@@ -6,23 +6,27 @@
 
 - [Project Description](#project-description)
 - [Data Source](#data-source)
-- [Cash Study](#casestudy)
+- [Case Study](#case-study)
 - [Tools Used](#tools-used)
 - [ETL Processing](#etl-processing)
-- [Recommended Analysis](#recommended-analysis)
+- [Recommendations](#recommendations)
 - [Data Analysis Procedures](#data-analysis-procedures)
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
+
+  
 
 ### Project Description
 
  ![Screenshot 2024-07-05 183549](https://github.com/AlaskaDav/alaskadavid/assets/155531290/c8db70cf-7ec8-4847-a104-b53b13472b94)
 
-#### Data Source: Teron Corp Data (.csv file)
+#### Data Source
+Teron Corp Data (.csv file)
 
-#### Case Study: Optimizing Strategies Using Data at Teron Corp	
+#### Case Study
+Optimizing Strategies Using Data at Teron Corp	
 
-#### Background:
+#### Background
 
 Teron Corp, a leading technology firm was facing challenges in its talent acquisition strategies. While the company had a diverse pool of employees, the leadership was keen to understand which recruitment channels and background yielded the best talent. With the intent to refine its hirng strategies and ensure the acquisition of top perfroming candidates, Teron corp decided to reach me for my expertise to help provide answers to their problems with my insights and findings.
 
