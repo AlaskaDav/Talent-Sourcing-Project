@@ -66,7 +66,7 @@ In the initial data preparation process, the following process was performed
 #### Results and Findings
 
 The analysis results are summarized as follows;
-1. The top three sources of Hire that produced the best -performing employees are:
+1. The top source of Hire that produced the best performing employees are:
    - LinkedIn - Having an average performance of 7.8 and the position that should be focused by recuiters is *Project manager*
 2. The Alma mater of the best performing employee is **OXFORD UNIVERSITY**
 3. The previous employer with highest perfroming employees are:
@@ -77,11 +77,13 @@ The analysis results are summarized as follows;
 
 #### Recommendations
 Based on the analysis, I recommend the following actions:
- - 
- - 
- - 
- -  
-
+ - Measuring the performance of employees is a great approach to selecting and appointing task and resposibilities to employees. However, Teron Corp organization should regularly consider chosing the employee with the following criteria rather than just comparing performance to help improve recruitment strategies.
+   (a) Emotional intelligence
+   (b) Technical and IT expertise
+   (c) Team spirit and collaborating strength
+   (d) Degree of commitment
+ - Encourage that the source of hire shouldn't be the only metrics to measure the performance of an employee.
+ - Put into Consideration the educational background and skills acquisition as a possible contribute to employee perfromance.
 
 
 😄 
