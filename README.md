@@ -4,7 +4,7 @@
 
 ## Table of Content 
 
-- [Project Description](#project-description)
+- [Project Dashboard](#project-dashboard)
 - [Data Source](#data-source)
 - [Case Study](#case-study)
 - [Tools Used](#tools-used)
@@ -14,7 +14,7 @@
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 
-### Project Description
+### Project Dashboard
 
  ![Screenshot 2024-07-05 183549](https://github.com/AlaskaDav/Talent-Sourcing-Project/assets/155531290/f90810f1-19f8-4439-aa89-14cd7ef17e69)
 
